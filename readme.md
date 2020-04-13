@@ -5,7 +5,7 @@
 
 ## Reference
 
-参考`  `https://github.com/go-redis/redis_rate` 实现的分布式限速组件
+参考`https://github.com/go-redis/redis_rate` 实现的分布式限速组件
 
 
 
